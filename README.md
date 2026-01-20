@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-I'm Lam Qiu, a Technical Artist and a Game Programmer based in NYC
-currently studying at NYU game center
-<!--
-**LamQiu/LamQiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Lam Qiu**, a Technical Artist and Game Programmer based in NYC.  
+Currently studying at **NYU Game Center**, primarily working with **Unity Engine**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Technologies
+- **Game Engine:** Unity
+- **Languages:** C#, HLSL, JavaScript
+- **Networking:** WebSockets, Game Networking
+- **Focus Areas:** Technical Art, Procedural Generation, Shaders
+
+---
+
+### 🎮 Projects
+Below are repositories for games I have developed and am currently developing.
