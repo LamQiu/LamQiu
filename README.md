@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Lam Qiu and I’m a Technical Artist and a Game Programmer currently studying at NYU game center
+I'm Lam Qiu, a Technical Artist and a Game Programmer based in NYC
+currently studying at NYU game center
 <!--
 **LamQiu/LamQiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
